@@ -1,53 +1,51 @@
-<h1 align="center">Hola 👋, soy Ezequiel Gonzalez</h1>
-<h3 align="center">Full Stack Developer (MERN) • Open to Trainee / Junior roles</h3>
-
 <p align="center">
-  Construyo apps web end-to-end con el stack MERN: APIs, autenticación, base de datos y un frontend moderno.
-  Me importa que funcione bien y que se vea mejor.
+  <img src="./assets/terminal-hero.svg" width="100%" alt="Ezequiel Gonzalez · Full Stack y Creative Development. Arte ASCII monocromático con animación sutil." />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ezexgonzalez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ezexgonzalez@outlook.com">
-    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mern-task-manager-iota-teal.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Demo-16A34A?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/ezexgonzalez/mern-task-manager" target="_blank">
-    <img src="https://img.shields.io/badge/Featured%20Repo-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <!-- cuando deployes el portfolio: agregamos el badge acá -->
+  <a href="https://ezegonzalez.dev/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://ezewebstudio.com.ar/">Eze Web Studio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ezexgonzalez/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:ezexgonzalez@outlook.com">Email</a>
 </p>
 
----
+### `01 / SOBRE MÍ`
 
-### 🚀 En búsqueda de mi primera experiencia IT
-Estoy abierto a roles **Full Stack / Frontend / Backend Trainee–Junior**.  
-Busco un equipo donde pueda aportar, aprender rápido y crecer con buenas prácticas.
+Soy **Ezequiel**, desarrollador Full Stack orientado a JavaScript, con especial interés en el encuentro entre **código, diseño y experiencia de usuario**.
 
-### 🧩 Proyecto destacado
-**Task Manager · Liquid Glass UI**  
-App full stack MERN para gestión de tareas con **auth JWT**, **CRUD completo**, estados de tarea y una UI dark “liquid glass”.  
-🔗 Demo: https://mern-task-manager-iota-teal.vercel.app/  
-💻 Repo: https://github.com/ezexgonzalez/mern-task-manager
+Me gusta pensar una idea, cuestionarla, diseñar cómo debería sentirse y después construirla. Trabajo con aplicaciones web, interfaces y proyectos creativos; siempre intentando que cada decisión tenga un porqué.
 
----
+No me interesa sumar tecnología por sumarla. Me interesa hacer cosas que **funcionen bien, se entiendan y tengan identidad propia**.
 
-<h3 align="center">Stack</h3>
+### `02 / EN CONSTRUCCIÓN`
+
+**[Portfolio 2027](https://github.com/ezexgonzalez/portfolio-2025/tree/feature/portfolio-2027-foundation)** `— personal / en desarrollo`  
+Una nueva versión de mi portfolio, donde exploro tipografía, ASCII, movimiento y dirección visual con React.
+
+**[Eze Web Studio](https://github.com/ezexgonzalez/eze-web-studio-V2)** `— estudio independiente`  
+Mi proyecto de desarrollo web para negocios. Landing pages claras, diseño cuidado y foco en facilitar consultas reales. [Ver sitio ↗](https://ezewebstudio.com.ar/)
+
+**[Tambu Game](https://github.com/ezexgonzalez/tambu-game)** `— creative coding / en desarrollo`  
+Un juego 2D en pixel art para navegador, desarrollado con Phaser. Personajes, escenarios, interacciones y sistemas sociales.
+
+**[MERN Task Manager](https://github.com/ezexgonzalez/mern-task-manager)** `— full stack`  
+Aplicación de gestión de tareas con React, Node.js, Express y MongoDB. Autenticación JWT, CRUD, búsqueda, filtros y una interfaz responsive.
+
+### `03 / MI TOOLKIT`
+
+```text
+frontend  /  JavaScript · React · HTML · CSS · Tailwind
+backend   /  Node.js · Express · MongoDB · APIs REST · JWT
+creative  /  Figma · Framer Motion · Phaser
+workflow  /  Git · GitHub · Vite
+```
+
+### `04 / QUÉ SIGUE`
+
+Sigo profundizando en desarrollo frontend y full stack, construyendo productos propios y explorando nuevas formas de unir ingeniería y creatividad.
+
+**Abierto a oportunidades Frontend / Full Stack Junior y colaboraciones.** Si tenés una idea, un proyecto o simplemente querés conversar sobre tecnología, podemos conectar.
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" width="40" height="40" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ezexgonzalez&layout=compact" alt="Top Langs" />
+  <sub>OBSERVAR. CUESTIONAR. ENTENDER. CONSTRUIR.</sub>
 </p>
