@@ -25,9 +25,6 @@ Una nueva versión de mi portfolio, donde exploro tipografía, ASCII, movimiento
 **[Eze Web Studio](https://github.com/ezexgonzalez/eze-web-studio-V2)** `— estudio independiente`  
 Mi proyecto de desarrollo web para negocios. Landing pages claras, diseño cuidado y foco en facilitar consultas reales. [Ver sitio ↗](https://ezewebstudio.com.ar/)
 
-**[Tambu Game](https://github.com/ezexgonzalez/tambu-game)** `— creative coding / en desarrollo`  
-Un juego 2D en pixel art para navegador, desarrollado con Phaser. Personajes, escenarios, interacciones y sistemas sociales.
-
 **[MERN Task Manager](https://github.com/ezexgonzalez/mern-task-manager)** `— full stack`  
 Aplicación de gestión de tareas con React, Node.js, Express y MongoDB. Autenticación JWT, CRUD, búsqueda, filtros y una interfaz responsive.
 
